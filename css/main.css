@@ -448,6 +448,7 @@ template {
   display: none;
 }
 
+<<<<<<< HEAD
 .grid {
   display: flex;
   flex-wrap: wrap;
@@ -481,26 +482,36 @@ template {
     flex-basis: 50%;
   }
 }
+=======
+>>>>>>> e5df47390bb635d9ad487d95cbc383c7b639274c
 *, *::before, *::after {
   box-sizing: border-box;
 }
 
+<<<<<<< HEAD
 body {
   color: #048ca8;
   text-align: center;
 }
 
+=======
+>>>>>>> e5df47390bb635d9ad487d95cbc383c7b639274c
 img {
   max-width: 100%;
   height: auto;
 }
 
 .container {
+<<<<<<< HEAD
   width: 90%;
+=======
+  width: 95%;
+>>>>>>> e5df47390bb635d9ad487d95cbc383c7b639274c
   max-width: 1200px;
   margin: 0 auto;
 }
 
+<<<<<<< HEAD
 .unstyled-list {
   margin: 0;
   padding: 0;
@@ -615,6 +626,10 @@ h2 {
   .sales-point:first-of-type {
     margin-top: 0;
   }
+=======
+.grid {
+  display: flex;
+>>>>>>> e5df47390bb635d9ad487d95cbc383c7b639274c
 }
 
 .hero {
@@ -624,6 +639,7 @@ h2 {
   padding-bottom: 8em;
   text-align: center;
 }
+<<<<<<< HEAD
 @media (min-width: 725px) {
   .hero {
     text-align: left;
@@ -637,14 +653,25 @@ h2 {
   .hero-text {
     margin-top: 1vmax;
   }
+=======
+
+.hero img {
+  display: none;
+>>>>>>> e5df47390bb635d9ad487d95cbc383c7b639274c
 }
 
 .main-header {
   position: absolute;
+<<<<<<< HEAD
   top: 0;
   left: 0;
   right: 0;
   padding-top: 1em;
+=======
+  top: 1em;
+  left: 0;
+  right: 0;
+>>>>>>> e5df47390bb635d9ad487d95cbc383c7b639274c
 }
 
 .logo {
@@ -654,6 +681,7 @@ h2 {
 }
 
 .main-nav {
+<<<<<<< HEAD
   background: #16db93;
   position: absolute;
   top: 0;
@@ -905,4 +933,7 @@ footer::before {
   .cta .container-cta {
     width: 50%;
   }
+=======
+  display: none;
+>>>>>>> e5df47390bb635d9ad487d95cbc383c7b639274c
 }
